@@ -1,5 +1,8 @@
 # ch_color
 
+![alt text](gitimg/blue.jpg)
+![alt text](gitimg/red.jpg)
+
 A new Flutter project.
 
 ## Getting Started
